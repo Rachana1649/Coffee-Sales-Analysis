@@ -27,7 +27,9 @@ In this report, we aim  to analyze coffee sales data by creating dynamic dashboa
 -<a href = "https://github.com/Rachana1649/Coffee-Sales-Analysis/blob/main/Coffee%20Sales.pbix"> View Dashboard </a>
 
 ![Coffee shop sales](https://github.com/user-attachments/assets/674f807c-7b55-47e4-a298-874564bbf26c)
+
 ![Tooltip calender chart](https://github.com/user-attachments/assets/6c1fa318-e0f2-4e8b-8ff7-23726cb16bf0)
+
 ![Tooltip day hour](https://github.com/user-attachments/assets/739c3bbf-8806-466f-ab37-25c2e8a36ba7)
 
 * Calender Heat Map - Implementing a calender heat map that dynamically adjusts based on the selected month from slicer. Each day in the calendar will be color-coded to represent sales volume, with darker shades indicating higher sales.Implementing tootltip to display detailed metrics (Sales,Orders,Quantity) when hovering over a specific day.
