@@ -19,6 +19,9 @@ Analyzing the sales of Coffee shop based on the data available. Firing SQL queri
   Calculate the total number of orders for each respective month, month-on-month increase or decrease in number of orders. Calculating the difference in number of orders between the selected month and previous month.
 * Total Quantity Sold:
   Calculate the total quantity sold for each respective month, month-on-month increase or decrease in total quantity sold. Calculating the difference in total quantity sold between the selected month and previous month.
+## SQL Queires
+By using sql statements I have stored, updated,removed and reterived information from the database.
+-<a href = "
 ## Dashboard
 -<a href = "
 
